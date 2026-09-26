@@ -4,7 +4,7 @@ No confundir con ProblemBrief.md, el documento grupal con el problema elegido. -
 
 **Nombre:** Gisell Arroyo
 
-**Usuario de GitHub:** ⏳
+**Usuario de GitHub:** G1s3llA
 
 ---
 
