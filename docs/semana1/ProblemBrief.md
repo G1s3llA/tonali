@@ -41,12 +41,12 @@ por él.
 
 | Integrante | Usuario de GitHub | Rol |
 |---|---|---|
-| Gisell Arroyo | ⏳ | ⏳ |
-| Luis Cardenas | [LuisAlejandroCR](https://github.com/LuisAlejandroCR) | ⏳ |
+| Gisell Arroyo | G1s3llA | CEO |
+| Luis Cardenas | [LuisAlejandroCR](https://github.com/LuisAlejandroCR) | CTO |
 | ⏳ | ⏳ | ⏳ |
 
-- **Responsable de las entregas:** ⏳
-- **Canal de coordinación interna:** ⏳
+- **Responsable de las entregas:** G1s3llA y alejooo
+- **Canal de coordinación interna:** Discord
 
 ### Problema y evidencia
 
