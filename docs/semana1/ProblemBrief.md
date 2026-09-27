@@ -11,18 +11,17 @@ que aporta ese origen no recibe el valor que genera. Lo propuso: Gisell Arroyo.
 
 ### Por qué elegimos este
 
-⏳ Pendiente de la discusión del equipo. Argumento preliminar: el problema reúne a varias partes que no
+La propuesta de Gisell fue la más documentada 
+Argumento preliminar: el problema reúne a varias partes que no
 confían entre sí (productor, acopiador, marca, consumidor) y que necesitan un mismo registro de origen,
 y la confianza hoy depende de un solo intermediario: la etiqueta de la marca o una certificadora. Cumple
 dos criterios de la Sesión 1.
 
 ### Propuestas descartadas
 
-⏳ Pendiente: una fila por cada propuesta individual del equipo.
-
 | Propuesta | Quién la propuso | Motivo del descarte |
 |---|---|---|
-| Una emprendedora con ventas pero sin historial no consigue su primer crédito (México, Latinoamérica y mundo; cifras de la ENAFIN 2024 y la IFC en [Luis_Cardenas.md](Luis_Cardenas.md)) | Luis Cardenas | ⏳ |
+| Una emprendedora con ventas pero sin historial no consigue su primer crédito (México, Latinoamérica y mundo; cifras de la ENAFIN 2024 y la IFC en [Luis_Cardenas.md](Luis_Cardenas.md)) | Luis Cardenas | Por lo mejor documentada de la propuesta de Gisell |
 
 ### Cómo tomamos la decisión
 
