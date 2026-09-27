@@ -25,7 +25,7 @@ dos criterios de la Sesión 1.
 
 ### Cómo tomamos la decisión
 
-⏳ Pendiente: votación, consenso tras debate u otro método.
+Votación
 
 ---
 
