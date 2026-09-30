@@ -1,0 +1,35 @@
+<!-- verificacion.md: datos y cifras del proyecto con su fuente y su estado de verificación.
+No confundir con memoria.md, que guarda decisiones, enfoque técnico y bitácora. -->
+# Verificación de datos
+
+Cada dato lleva una de tres marcas:
+
+- ✅ **Verificado en fuente primaria**: alguien del equipo lo leyó en el documento original.
+- 📰 **Citado, sin re-verificar**: aparece en un entregable con su fuente, pero nadie volvió a revisarlo.
+- 🧪 **Supuesto propio**: una estimación del equipo que todavía no tiene fuente.
+
+## Datos en uso
+
+| Dato | Dónde se usa | Fuente | Estado |
+|---|---|---|---|
+| Cifras de la ENAFIN 2024 (solicitudes, rechazos, crédito activo de empresas de mujeres) | `semana1/Luis_Cardenas.md` | INEGI y CNBV, reporte publicado el 28/05/2025, pp. 14, 45–48, 92–94 | 📰 con enlace; confirmar cada página |
+| Brecha de financiamiento de pymes de mujeres en América Latina: USD 92 mil millones | `semana1/Luis_Cardenas.md` | IFC, 2020 | 📰 con enlace |
+| Brecha de financiamiento de MIPYMES: USD 5.2 billones (formales) y USD 2.9 billones (informales) | `semana1/Luis_Cardenas.md` | IFC, *MSME Finance*, consultado el 25/09/2026 | 📰 con enlace |
+| Snacks en México: crecimiento de ~4% en valor y ~6% en volumen | `semana1/ProblemBrief.md` | Innova Market Insights, 2025 | 📰 **sin enlace ni fecha de consulta** |
+| Mercado mexicano de barras: USD 440.4 millones (2025), crecimiento anual compuesto de 4.13% (2026–2034) | `semana1/ProblemBrief.md` | IMARC, 2025 | 📰 **sin enlace ni fecha de consulta** |
+| La relevancia cultural es parte de la estrategia competitiva del sector | `semana1/ProblemBrief.md` | Euromonitor, 2025 | 📰 **sin enlace ni fecha de consulta** |
+| La NOM-051 no obliga a declarar la procedencia de cada insumo | `semana1/ProblemBrief.md`, `semana2/ProductBlueprint.md` | NOM-051-SCFI/SSA1-2010 | 📰 confirmar en el texto vigente de la norma |
+| Precio propuesto: $20 MXN por barra | Problem Brief, Product Blueprint | Equipo | 🧪 |
+| Costo estimado: $8.96 MXN por unidad | Problem Brief | Equipo | 🧪 ⏳ documentar el desglose |
+| Lote de unas 100 barras | Problem Brief, Product Blueprint | Equipo | 🧪 |
+| Stellar admite passkeys para firmar con contratos Soroban | `semana2/ProductBlueprint.md` | Documentación de Stellar | ⏳ pendiente de confirmar |
+
+## Pendientes de conseguir
+
+| Pendiente | Para qué |
+|---|---|
+| Cotización real de una certificación de origen u orgánica | Convertir en cifra la fricción 3 (certificar es caro para lotes pequeños). |
+| Precio a granel que recibe un productor de amaranto | Cuantificar lo que el productor no cobra (fricción 4). |
+| Encuesta a 50 personas del segmento, con una pregunta sobre confianza en el origen | Validar el supuesto 1. La “pregunta 8” del supuesto 1 remite a esta encuesta. |
+| Al menos una conversación con un productor o acopiador de amaranto en Morelos | Validar el supuesto 2. |
+| Costo de operar el registro frente al margen por barra | Riesgo general del Problem Brief. |
