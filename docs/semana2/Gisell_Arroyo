@@ -7,6 +7,7 @@ Como encargado de producción quiero consultar cuánto insumo disponible existe 
 Como distribuidor quiero consultar la información del lote que estoy transportando para identificar su origen y destino en caso de que sea necesario darle seguimiento.
 Como consumidor quiero consultar la fecha de elaboración y el lote de mi producto para identificarlo fácilmente si necesito realizar alguna aclaración o seguimiento.
 Como administrador de TONALI quiero generar reportes de las entregas, lotes y productos registrados para analizar el funcionamiento de la trazabilidad y detectar posibles problemas.
+
 La más importante y por qué
 
 Organiza las historias de mayor a menor importancia: en la primera fila va la más importante. En cada fila indica el número de la historia y por qué la ubicaste en esa posición. Si usaste menos de 7 historias, borra las filas que sobren.
