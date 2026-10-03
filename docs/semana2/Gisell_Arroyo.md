@@ -1,5 +1,6 @@
 # Historias de Rol - TONALI
-
+Nombre: Gisell Arroyo
+Usuario de GitHub: G1s3llA
 ## Historias de rol
 Entre 5 y 7 historias en formato "como [rol] quiero [acción] para [beneficio]", pensadas desde distintos roles o necesidades del producto que el equipo está diseñando. Si escribes menos de 7, borra las líneas que no uses (mínimo 5).
 
