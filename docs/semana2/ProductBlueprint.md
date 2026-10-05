@@ -131,8 +131,7 @@ agregar cacahuate o miel es repetir el mismo registro.
 
 ## 6. Backlog priorizado (Kanban)
 
-**Enlace al tablero (obligatorio):** ⏳ pendiente: crear el tablero en GitHub Projects y pegar el enlace
-aquí.
+**Enlace al tablero (obligatorio):** (https://github.com/users/G1s3llA/projects/1)
 
 ---
 
