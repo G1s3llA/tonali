@@ -35,7 +35,14 @@ enlazar el lote y consultarlo. *Debería* es lo que suma confianza pero no bloqu
 | 3 | Como consumidor quiero escanear el QR del empaque y ver qué productores y qué entregas componen mi barra para comprobar el origen. | Luis Cardenas | Imprescindible: es el cambio que vive el usuario principal. |
 | 4 | Como acopiador quiero confirmar la recepción de una entrega para que quede una constancia que ven todas las partes. | Luis Cardenas | Debería: segunda firma independiente en el punto donde se pierde el rastro. |
 | 5 | Como verificador de campo quiero adjuntar una visita con foto y fecha a una entrega para respaldar que el dato corresponde al mundo físico. | Luis Cardenas | Debería: responde al supuesto 3 (el “oráculo”). |
-| ⏳ | Historias de Gisell Arroyo | Gisell Arroyo | ⏳ pendiente: integrar cuando suba `Gisell_Arroyo.md` de la semana 2. |
+| **1 (la más importante)** | **4** | Permite a TONALI conocer qué insumos tiene disponibles y de dónde provienen, facilitando la planeación de la producción y el control de existencias. |
+| **2** | **3** | Ayuda a garantizar la calidad de los productos mediante el registro de las revisiones realizadas a cada lote antes de que llegue al consumidor. |
+| **3** | **7** | Los reportes permiten administrar y analizar la información generada por el sistema, además de detectar problemas y tomar decisiones basadas en datos. |
+| **4** | **2** | Mantiene informado al productor sobre el estado de su entrega y genera mayor claridad en la relación entre el productor y TONALI. |
+| **5** | **5** | Facilita el seguimiento del producto durante su distribución y permite identificar rápidamente el lote en caso de alguna incidencia. |
+| **6** | **6** | Proporciona al consumidor información básica para identificar el producto y darle seguimiento cuando sea necesario. |
+| **7 (la menos importante)** | **1** | Aporta transparencia y valor al consumidor, pero depende de que previamente exista información correcta sobre los insumos, lotes y controles realizados por TONALI. |
+
 
 ---
 
